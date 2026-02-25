@@ -2,11 +2,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-    <!--Replace ${groupId}, ${artifactId} and ${name} below with proper values-->
+
     <modelVersion>4.0.0</modelVersion>
-    <groupId>${groupId}</groupId>
-    <artifactId>${artifactId}</artifactId>
-    <name>${name}</name>
+
+    <groupId>com.example</groupId>
+    <artifactId>second-repo</artifactId>
+    <name>Second Repo</name>
+
     <packaging>pom</packaging>
     <version>1.0</version>
 
